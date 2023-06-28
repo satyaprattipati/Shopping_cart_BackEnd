@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Size"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Pattern"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
+    <fullyQualifiedTypeName name="com.cart.model.Profile"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
+    <fullyQualifiedTypeName name="com.product.service.ProductService"/>
+    <fullyQualifiedTypeName name="com.product.repository.ProductRepository"/>
+    <fullyQualifiedTypeName name="com.product.exception.ProductValidationException"/>
+    <fullyQualifiedTypeName name="org.apache.commons.math.stat.descriptive.summary.Product"/>
+    <fullyQualifiedTypeName name="com.profile.service.ProfileService"/>
+    <fullyQualifiedTypeName name="com.profile.repository.ProfileRepository"/>
+    <fullyQualifiedTypeName name="com.cart.model.Product"/>
+    <fullyQualifiedTypeName name="com.product.model.Product"/>
+    <fullyQualifiedTypeName name="com.profile.exception.ProfileValidationException"/>
+    <fullyQualifiedTypeName name="com.profile.model.Profile"/>
+    <fullyQualifiedTypeName name="com.cart.service.CartService"/>
+    <fullyQualifiedTypeName name="com.cart.repositories.CartRepository"/>
+    <fullyQualifiedTypeName name="com.cart.exception.CartValidationException"/>
+    <fullyQualifiedTypeName name="com.cart.model.Cart"/>
+    <fullyQualifiedTypeName name="com.order.address.Address"/>
+    <fullyQualifiedTypeName name="com.product.model.Admin"/>
+    <fullyQualifiedTypeName name="com.product.repository.AdminRepository"/>
+    <fullyQualifiedTypeName name="com.order.payload.ErrorInfo"/>
+    <fullyQualifiedTypeName name="com.product.exception.AdminNotFoundException"/>
+    <fullyQualifiedTypeName name="com.product.exception.AuthenticationFailureException"/>
+</qualifiedTypeNameHistroy>
